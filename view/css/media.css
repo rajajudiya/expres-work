@@ -1,0 +1,498 @@
+@media (min-width: 1400px) {
+   .container{
+      width: 1320px;
+   }
+
+   .w-xxl-1{
+    width: 8.33%;
+  }
+  .w-xxl-2{
+    width: 16.66%;
+  }
+  .w-xxl-3{
+    width: 25%;
+  }
+  .w-xxl-4{
+    width: 33.33%;
+  }
+  .w-xxl-5{
+    width: 41.66%;
+  }
+  .w-xxl-6{
+    width: 50%;
+  }
+  .w-xxl-7{
+    width: 58.33%;
+  }
+  .w-xxl-8{
+    width: 66.66%;
+  }
+  .w-xxl-9{
+    width: 75%;
+  }
+  .w-xxl-10{
+    width: 83.33%;
+  }
+  .w-xxl-11{
+    width: 91.66%;
+  }
+  .w-xxl-12{
+    width: 100%;
+  }
+  .w-xxl-none{
+    display: none;
+  }
+
+  .toggle{
+    display: none;
+  }
+
+}
+@media (max-width: 1399px) {
+  .container{
+     width: 1140px;
+  }
+  .w-xl-1{
+    width: 8.33%;
+  }
+  .w-xl-2{
+    width: 16.66%;
+  }
+  .w-xl-3{
+    width: 25%;
+  }
+  .w-xl-4{
+    width: 33.33%;
+  }
+  .w-xl-5{
+    width: 41.66%;
+  }
+  .w-xl-6{
+    width: 50%;
+  }
+  .w-xl-7{
+    width: 58.33%;
+  }
+  .w-xl-8{
+    width: 66.66%;
+  }
+  .w-xl-9{
+    width: 75%;
+  }
+  .w-xl-10{
+    width: 83.33%;
+  }
+  .w-xl-11{
+    width: 91.66%;
+  }
+  .w-xl-12{
+    width: 100%;
+  }
+  .w-xl-none{
+    display: none;
+  }
+  .review-1 p{
+    text-align: start;
+  }
+
+  .toggle{
+    display: none;
+  }
+}
+@media (max-width: 1199px) {
+  .container{
+     width: 960px;
+  }
+
+  .w-lg-1{
+    width: 8.33%;
+  }
+  .w-lg-2{
+    width: 16.66%;
+  }
+  .w-lg-3{
+    width: 25%;
+  }
+  .w-lg-4{
+    width: 33.33%;
+  }
+  .w-lg-5{
+    width: 41.66%;
+  }
+  .w-lg-6{
+    width: 50%;
+  }
+  .w-lg-7{
+    width: 58.33%;
+  }
+  .w-lg-8{
+    width: 66.66%;
+  }
+  .w-lg-9{
+    width: 75%;
+  }
+  .w-lg-10{
+    width: 83.33%;
+  }
+  .w-lg-11{
+    width: 91.66%;
+  }
+  .w-lg-12{
+    width: 100%;
+  }
+
+  .cap{
+    height: 150px;
+    width: 300px;
+  }
+  .cap span{
+    padding-left: 45%;
+  }
+  .cap h4{
+    text-align: start;
+  }
+  .review-1 p{
+    text-align: start;
+  }
+  .newsletter input{
+    height: 40px;
+    width: 270px;
+  }
+
+  .toggle{
+    display: none;
+  }
+  
+}
+@media (max-width: 992px) {
+  .container{
+     width: 720px;
+  }
+
+  .w-md-1{
+    width: 8.33%;
+  }
+  .w-md-2{
+    width: 16.66%;
+  }
+  .w-md-3{
+    width: 25%;
+  }
+  .w-md-4{
+    width: 33.33%;
+  }
+  .w-md-5{
+    width: 41.66%;
+  }
+  .w-md-6{
+    width: 50%;
+  }
+  .w-md-7{
+    width: 58.33%;
+  }
+  .w-md-8{
+    width: 66.66%;
+  }
+  .w-md-9{
+    width: 75%;
+  }
+  .w-md-10{
+    width: 83.33%;
+  }
+  .w-md-11{
+    width: 91.66%;
+  }
+  .w-md-12{
+    width: 100%;
+  }
+  .w-md-none{
+    display: none;
+  }
+  .w-md-block{
+    display: block;
+  }
+
+  .vid{
+    height: 600px;
+  }
+
+  .what{
+    margin-top: 30%;
+  }
+ 
+  .cap{
+    height: 170px;
+    width: 230px;
+
+  }
+
+  .cap h4{
+    text-align: start;
+  }
+  .cap span{
+    display: none;
+  }
+ 
+  .im-2 img{
+    height: 150px;
+    width: 500px;
+    display: flex;
+  }
+  .im-3 img{
+    display: none;    
+  }
+  .newsletter input{
+    height: 40px;
+    width: 200px;
+  }
+  .newsletter{
+    margin-right: 20px;
+  }
+  .ab{
+    
+    margin-top: 50px;
+  }
+
+  .toggle{
+    display: block;
+  }
+
+  nav{
+    width: 100%;
+    background-color: red;
+    padding: 5px;
+    display: none;
+  }
+
+  nav a{
+    color: black;
+
+  }
+
+  nav ul{
+    flex-direction: column;
+    /* gap: 4px; */
+  }
+}
+@media (max-width: 768px) {
+  .container{
+     width:540px;
+  }
+
+  .w-s-1{
+    width: 8.33%;
+  }
+  .w-s-2{
+    width: 16.66%;
+  }
+  .w-s-3{
+    width: 25%;
+  }
+  .w-s-4{
+    width: 33.33%;
+  }
+  .w-s-5{
+    width: 41.66%;
+  }
+  .w-s-6{
+    width: 50%;
+  }
+  .w-s-7{
+    width: 58.33%;
+  }
+  .w-s-8{
+    width: 66.66%;
+  }
+  .w-s-9{
+    width: 75%;
+  }
+  .w-s-10{
+    width: 83.33%;
+  }
+  .w-s-11{
+    width: 91.66%;
+  }
+  .w-s-12{
+    width: 100%;
+  }
+
+  .banner{
+    /* background-size: auto; */
+   
+    background-image: url("../image/banner/header-bg.jpg") left;
+
+  }
+  .what{
+    margin-top: 60%;
+  }
+  .what .h2{
+    text-align: center;
+  }
+  .cap{
+    height: 150px;
+    width: 540px;
+  }
+  .cap p{
+    text-align: start;
+    padding-left: 30px;
+  }
+  .cap h4{
+    text-align: start;
+  }
+  .cap span{
+    text-align: end;
+  }
+
+  .what{
+    background-image: url(../image/banner/menu-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    /* margin-top: 10%; */
+}
+  .wha{
+    margin-top: 20%;
+  }
+
+  .im-4 img{
+    width: 600px;
+    height: 500px;
+  }
+  .im-5 img{
+    width: 600px;
+    height: 500px; 
+  }
+  .im-1 img{
+    width: 600px;
+    height: 400px;
+    margin-left: 30%; 
+  }
+  .im-2 img{
+    width: 600px;
+    height: 400px; 
+    margin-left: 30%;
+  }
+  .review-1 p{
+    text-align: start;
+  }
+  .review{
+    background-color: #B68834;
+    width: 100%;
+    margin-top: 10%;
+    height: 100%;
+    margin-bottom: 10%;
+}
+  .life h3{
+    text-align: start;
+  }
+
+  .newsletter input{
+    height: 40px;
+    width: 250px;
+  }
+  .ab{
+    background-image: url("../image/banner/footer-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-top: 10%;
+  }
+
+  .toggle{
+    display: block;
+  }
+}
+@media (max-width: 576px) {
+  .container{
+     width: 100%;
+  }
+
+  .w-xs-1{
+    width: 8.33%;
+  }
+  .w-xs-2{
+    width: 16.66%;
+  }
+  .w-xs-3{
+    width: 25%;
+  }
+  .w-xs-4{
+    width: 33.33%;
+  }
+  .w-xs-5{
+    width: 41.66%;
+  }
+  .w-xs-6{
+    width: 50%;
+  }
+  .w-xs-7{
+    width: 58.33%;
+  }
+  .w-xs-8{
+    width: 66.66%;
+  }
+  .w-xs-9{
+    width: 75%;
+  }
+  .w-xs-10{
+    width: 83.33%;
+  }
+  .w-xs-11{
+    width: 91.66%;
+  }
+  .w-xs-12{
+    width: 100%;
+  }
+
+  .what{
+    margin-top: 60%;
+  }
+  .what .h2{
+    text-align: center;
+  }
+  .cap{
+    height: 150px;
+    width: 540px;
+  }
+  .cap p{
+    text-align: start;
+    padding-left: 30px;
+  }
+  .cap h4{
+    text-align: start;
+  }
+  .cap span{
+    text-align: end;
+  }
+
+  .review-1 p{
+    text-align: start;
+  }
+  .review{
+    background-color: #B68834;
+    width: 100%;
+    margin-top: 10%;
+    height: 100%;
+    margin-bottom: 10%;
+}
+
+.newsletter input{
+  height: 40px;
+  width: 250px;
+}
+.ab{
+  background-image: url("../image/banner/footer-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  margin-top: 10%;
+}
+
+.toggle{
+  display: block;
+}
+
+}
